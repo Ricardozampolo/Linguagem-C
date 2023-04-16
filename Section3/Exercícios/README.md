@@ -9,3 +9,4 @@
 ###
 4. Leia um número real e imprima o resultado do quadrado desse número.
 ###
+5. Leia um número real e imprima a quinta parte deste número.
