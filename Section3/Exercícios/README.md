@@ -29,3 +29,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 13. Leia uma distância em quilômetros e apresente-a convertida em milhas. A fórmula de conversão é: m = k/1.61, sendo K a distância em quilômetros e M em milhas.
 ###
 14. Leia um ângulo em graus e apresente-o convertido em radianos. A fórmula de conversão é: R = G*pi/180, sendo G o ângulo em graus e R em radianos e pi = 3,14.
+###
+15. Leia um ângulo em radianos e apresente-o convertido em graus. A fórmula de conversão é: G = R*180/pi, sendo G o ângulo em graus e R em radianos e pi = 3,14.
