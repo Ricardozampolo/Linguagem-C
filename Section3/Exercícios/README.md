@@ -12,4 +12,6 @@
 5. Leia um número real e imprima a quinta parte deste número.
 ###
 6. Leia uma temperatura em graus Celsius e aparesente-a convertida em graus Fahrenheit.
-A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius. 
+A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
+###
+7. Leia uma temperatura em graus fahrenheit e apresente-a convertida em graus Celsius. A fórmula de conversão é C = 5 * (F - 32) / 9, sendo C a temperatura em Celsius e F a temperatura em Fahrenheit.
