@@ -23,3 +23,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 10. Leia uma velocidade em Km/h(quilômetros por hora) e apresente-a convertida em m/s(metros por segundo). A fórmula de conversão é: M = K/3.6, sendo K a velocidade em Km/h e M em m/s.
 ###
 11. Leia uma velocidade em m/s(metros por segundo) e apresente-a convertida em Km/h(quilômetros por hora). A fórmula de conversão é: K = M * 3.6, sendo K a velocidade em Km/h e M em m/s.
+###
+12. Leia uma distância em milhas e apresente-a convertida em quilômetros. A fórmula de conversão é: K = 1.61 * M, sendo K a distância em quilômetros e M em milhas.
