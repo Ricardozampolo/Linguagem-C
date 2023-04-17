@@ -45,3 +45,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 21. Leia um valor de massa em libras e apresente-o convertido em quilogramas. A fórmula de conversão é: K = L * 0.45, sendo K a massa em quilogramas e L a massa em libras.
 ###
 22. Leia um valor de comprimento em jardas e apresente-o convertido em metros. A fórmula de conversão é: M = 0.91 * J, sendo j o comprimento em jardas e M o comprimento em metros.
+###
+23. Leia um valor de comprimento em metros e apresente-o convertido em jardas. A fórmula de conversão é: J = M / 0.91, sendo j o comprimento em jardas e M o comprimento em metros.
