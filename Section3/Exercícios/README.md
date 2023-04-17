@@ -33,3 +33,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 15. Leia um ângulo em radianos e apresente-o convertido em graus. A fórmula de conversão é: G = R*180/pi, sendo G o ângulo em graus e R em radianos e pi = 3,14.
 ###
 16. Leia um valor de comprimento em polegadas e apresente-o convertido em centímetros. A fórmula de conversão é: C = P * 2.54, sendo C o comprimento em centímetros e o P o comprimento em polegadas.     
+###
+17. Leia um valor de comprimento em centímetros e apresente-o convertido em polegadas. A fórmula de conversão é: P = C / 2.54, sendo C o comprimento em centímetros e o P o comprimento em polegadas.     
