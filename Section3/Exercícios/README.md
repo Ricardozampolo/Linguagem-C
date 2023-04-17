@@ -52,3 +52,4 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 ###
 25. Leia um valor de área em acres e apresente-o convertido em metros quadrados m². A fórmula de conversão é: M = A * 4048.58, sendo M a área em metros quadrados e A a área em acres. 
 ###
+26. Leia um valor de área em metros quadrados m² e apresente-o convertido em hectares. A fórmula de conversão é: H = M * 0.0001, sendo M a área em metros quadrados e H a área em hectares.
