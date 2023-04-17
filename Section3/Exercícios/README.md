@@ -47,3 +47,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 22. Leia um valor de comprimento em jardas e apresente-o convertido em metros. A fórmula de conversão é: M = 0.91 * J, sendo j o comprimento em jardas e M o comprimento em metros.
 ###
 23. Leia um valor de comprimento em metros e apresente-o convertido em jardas. A fórmula de conversão é: J = M / 0.91, sendo j o comprimento em jardas e M o comprimento em metros.
+###
+24. Leia um valor de área em metros quadrados m² e apresente-o convertido em acres. A fórmula de conversão é: A = M * 0.000247, sendo M a área em metros quadrados e A a área em acres. 
