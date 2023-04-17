@@ -40,4 +40,6 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 ###
 19. Leia um valor de volume em litros e apresente-o convertido em metros cúbicos m³. A fórmula de conversão é: M = L/1000, sendo L o volume em litros e M o volume em metros cúbicos.
 ###
-20. Leia um valor de massa em quilogramas e apresente-o convertido em libras. A fórmula de conversão é: L = K / 0.45, sendo K a massa em quilogramas e L a massa em libras.   
+20. Leia um valor de massa em quilogramas e apresente-o convertido em libras. A fórmula de conversão é: L = K / 0.45, sendo K a massa em quilogramas e L a massa em libras.
+###
+21. Leia um valor de massa em libras e apresente-o convertido em quilogramas. A fórmula de conversão é: K = L * 0.45, sendo K a massa em quilogramas e L a massa em libras.
