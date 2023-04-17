@@ -17,3 +17,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 7. Leia uma temperatura em graus fahrenheit e apresente-a convertida em graus Celsius. A fórmula de conversão é C = 5 * (F - 32) / 9, sendo C a temperatura em Celsius e F a temperatura em Fahrenheit.
 ###
 8. Leia uma temperatura em graus Kelvin e apresente-a convertida em graus celsius. A fórmula de conversão é: C = K - 273,15, sendo C a temperatura em graus Celsius e K a temperatura em Kelvin.
+###
+9. Leia uma temperatura em graus Celsius e apresente-a convertida em graus Kelvin. A fórmula de conversão é: K = c + 273,15, sendo C a temperatura em graus Celsius e K a temperatura em Kelvin.
