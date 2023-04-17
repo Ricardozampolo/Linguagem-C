@@ -19,3 +19,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 8. Leia uma temperatura em graus Kelvin e apresente-a convertida em graus celsius. A fórmula de conversão é: C = K - 273,15, sendo C a temperatura em graus Celsius e K a temperatura em Kelvin.
 ###
 9. Leia uma temperatura em graus Celsius e apresente-a convertida em graus Kelvin. A fórmula de conversão é: K = c + 273,15, sendo C a temperatura em graus Celsius e K a temperatura em Kelvin.
+###
+10. Leia uma velocidade em Km/h(quilômetros por hora) e apresente-a convertida em m/s(metros por segundo). A fórmula de conversão é: M = K/3.6, sendo K a velocidade em Km/h e M em m/s. 

@@ -7,5 +7,5 @@ int main(){
 
     k = c + 273.15;
 
-    printf("K= %.2f", k);
+    printf("K = %.2f", k);
 }
