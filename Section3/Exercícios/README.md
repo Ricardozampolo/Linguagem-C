@@ -61,3 +61,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 29. Leia quatro notas, calcule a média aritmética e imprima o resultado.
 ###
 30. Leia um valor real e a cotação do dólar. Em seguida, imprima o valor correspondente em dólares.
+###
+31. Leia um número inteiro e imprima o seu antecessor e o seu sucessor.
