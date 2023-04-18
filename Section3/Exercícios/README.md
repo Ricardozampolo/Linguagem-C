@@ -65,3 +65,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 31. Leia um número inteiro e imprima o seu antecessor e o seu sucessor.
 ###
 32. Leia um número inteiro e imprima a soma do sucessor de seu triplo com o antecessor de seu dobro.
+###
+33. Leia o tamanho do lado de um quadrado e imprima como resultado a sua área.
