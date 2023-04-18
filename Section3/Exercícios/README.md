@@ -67,3 +67,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 32. Leia um número inteiro e imprima a soma do sucessor de seu triplo com o antecessor de seu dobro.
 ###
 33. Leia o tamanho do lado de um quadrado e imprima como resultado a sua área.
+###
+34. Leia o valor do raio de um círculo e calcule e imprima a área do círculo correspondente. A área do circuito é pi + raio², considere pi = 3.141592.
