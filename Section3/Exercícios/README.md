@@ -69,3 +69,5 @@ A fórmula de conversão é: F = C *(9 / 5) + 32, sendo F a temperatura em Fahre
 33. Leia o tamanho do lado de um quadrado e imprima como resultado a sua área.
 ###
 34. Leia o valor do raio de um círculo e calcule e imprima a área do círculo correspondente. A área do circuito é pi + raio², considere pi = 3.141592.
+###
+35. Seja A e B os catetos de um triângulo , onde a hipotenusa é obtida pela equação: hipotenusa = raiz a² + b². Faça um programa que receba os valores de A e B e calcule o valor da hipotenusa através da equação. Imprima o resultado dessa operação.     
